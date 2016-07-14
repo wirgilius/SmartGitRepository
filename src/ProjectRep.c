@@ -14,5 +14,6 @@
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
 	puts("!!!By by!!!");
+	puts("new line, hello");
 	return EXIT_SUCCESS;
 }
