@@ -16,6 +16,6 @@ int main(void) {
 	puts("!!!By by!!!");
 	State_Machine_t State_Machine;
 	State_Machine = Stop;
-
+	puts("!!!Ready!!!");
 	return EXIT_SUCCESS;
 }
