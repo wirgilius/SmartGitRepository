@@ -12,10 +12,11 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("!!!Hello Everyone!!!"); /* prints !!!Hello World!!! */
 	puts("!!!By by!!!");
 	State_Machine_t State_Machine;
 	State_Machine = Stop;
     puts("so ok");
+    puts("End");
 	return EXIT_SUCCESS;
 }
